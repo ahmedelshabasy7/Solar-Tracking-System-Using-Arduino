@@ -10,7 +10,7 @@ int servov = 90;
 int servovLimitHigh = 120; 
 int servovLimitLow = 15; 
 
-// LDR sensor connections
+
 int ldrTR = A3; 
 int ldrTL = A2; 
 int ldrBR = A1; 
