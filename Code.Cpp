@@ -64,7 +64,7 @@ void loop() {
         servov = servovLimitLow;
       }
     }
-    vertical.write(servov); // Move vertical servo
+    vertical.write(servov); 
   }
 
   
