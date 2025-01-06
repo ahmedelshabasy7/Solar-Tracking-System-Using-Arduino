@@ -1,4 +1,3 @@
-# Solar-Tracking-System-Using-Arduino
 A dual axis solar tracking system is a sophisticated mechanism designed to optimize the orientation of solar panels throughout the day to maximize energy capture. Unlike fixed or single-axis systems, dual-axis trackers can adjust both the azimuth (horizontal angle) and the elevation (vertical angle) of the solar panels. This system is particularly effective in maximizing solar energy absorption by following the sun's path across the sky.
 
 Components :
